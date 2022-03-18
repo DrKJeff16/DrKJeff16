@@ -1,0 +1,36 @@
+#+TITLE: About Me
+#+DATE: 18-03-2022
+#+OPTIONS: toc:nil
+#+LANGUAGE: en
+
+Hi! I'm a 21 year-old IT student from Mexico. I love free software and am an
+aspiring software developer/cyber-security expert.
+
+** List Of Attributes
+
+- Male
+- 21
+- EN//ES//RU
+- UNIX fanboy
+- Free Software fanboy
+- GNU+Linux shill (currently on [[https://manjaro.org][Manjaro XFCE]])
+- I'm currently studying and learning IT
+- I love documenting code and making ordered structures
+- Languages I Know /atm/, ordered by knowledge (from greater to lower):
+      - C++
+      - Shell
+      - Python
+      - C
+      - Vimscript
+      - Java
+      - JS
+      - ~HTM~... /jk/
+- I want to learn these languages:
+      - Typescript
+      - Common-Lisp
+      - Assembly
+      - Julia
+      - Rust
+      - Go
+- [[https://steamcommunity.com/id/Dr-Jeff][I love videogames]] and music!
+

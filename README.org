@@ -11,6 +11,7 @@ aspiring full-stack developer.
 - I love documenting code and making ordered structures
 - I know C/C++, Shell, Python, Vimscript and a bit of Java
 - [[https://github.com/vim/vim][Vim]] / [[https://github.com/neovim/neovim][NeoVim]] is the best editor!
+- [[https://steamcommunity.com/id/Dr-Jeff][I love videogames]] and music!
 #+BEGIN_COMMENT
 - I want to learn these languages:
       - Typescript
@@ -20,5 +21,4 @@ aspiring full-stack developer.
       - Rust
       - Go
 #+END_COMMENT
-- [[https://steamcommunity.com/id/Dr-Jeff][I love videogames]] and music!
 

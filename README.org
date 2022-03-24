@@ -3,6 +3,8 @@
 #+OPTIONS: toc:nil
 #+LANGUAGE: en
 
+[[./assets/img/DrKJeff16.jpg]]
+
 Hi! I'm a 21 year-old IT student from Mexico. I love [[https://fsf.org][free software]] and am an
 aspiring full-stack developer.
 

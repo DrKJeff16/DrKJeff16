@@ -1,28 +1,27 @@
 #+TITLE: About Me
 #+DATE: 18-03-2022
-#+OPTIONS: toc:nil
+#+OPTIONS: toc:t
 #+LANGUAGE: en
 
 #+BEGIN_CENTER
 [[./assets/img/DrKJeff16.jpg]]
 #+END_CENTER
 
-Hi! I'm a 21 year-old IT student from Mexico. I love [[https://fsf.org][free software]] and am an
+Hi! I'm a 22 year-old IT student from Mexico. I love [[https://fsf.org][free software]] and am an
 aspiring full-stack developer.
 
-- EN / ES / RU
-- Free Software and GNU+Linux shill (currently using [[https://manjaro.org][Manjaro XFCE]])
+- ES / EN / RU
+- Free Software and GNU+Linux shill (currently using [[https://manjaro.org][Manjaro]])
 - I love documenting code and making ordered structures
-- I know C/C++, Shell, Python, Vimscript and a bit of Java
+- I know Shellscript (BASH predominantly), C, C++, Python, Lua, Common-Lisp and a bit of Java. I'm also currently learning Arduino.
 - [[https://github.com/vim/vim][Vim]] / [[https://github.com/neovim/neovim][NeoVim]] is the best editor!
 - [[https://steamcommunity.com/id/Dr-Jeff][I love videogames]] and music!
-#+BEGIN_COMMENT
 - I want to learn these languages:
       - Typescript
-      - Common-Lisp
-      - Assembly
       - Julia
       - Rust
       - Go
-#+END_COMMENT
+- I document using the following formats for each language:
+      - Python: Numpy Docstring Format
+      - C/C++: Doxygen
 

@@ -1,27 +1,40 @@
 #+TITLE: About Me
-#+DATE: 18-03-2022
+#+DATE: 12-10-2023
 #+OPTIONS: toc:t
 #+LANGUAGE: en
+#+AUTHOR: Guennadi Maximov (AKA DrKJeff16)
+#+KEYWORDS: readme|description|documentation|project|development|github
 
+#+BEGIN_COMMENT
 #+BEGIN_CENTER
 [[./assets/img/DrKJeff16.jpg]]
 #+END_CENTER
+#+END_COMMENT
 
-Hi! I'm a 22 year-old IT student from Mexico. I love [[https://fsf.org][free software]] and am an
+Hi! I'm a 22 year-old IT student from Mexico. I love [[https://fsf.org][free software]], open-source software and am an
 aspiring full-stack developer.
 
 - ES / EN / RU
-- Free Software and GNU+Linux shill (currently using [[https://manjaro.org][Manjaro]])
-- I love documenting code and making ordered structures
-- I know Shellscript (BASH predominantly), C, C++, Python, Lua, Common-Lisp and a bit of Java. I'm also currently learning Arduino.
-- [[https://github.com/vim/vim][Vim]] / [[https://github.com/neovim/neovim][NeoVim]] is the best editor!
-- [[https://steamcommunity.com/id/Dr-Jeff][I love videogames]] and music!
-- I want to learn these languages:
-      - Typescript
-      - Julia
-      - Rust
-      - Go
-- I document using the following formats for each language:
-      - Python: Numpy Docstring Format
-      - C/C++: Doxygen
+- Free Software and GNU+Linux shill (currently using [[https://manjaro.org][Manjaro KDE]], but I have experience on [[https://gentoo.org][Gentoo]], Ubuntu-based distros, [[https://archlinux.org][OG ArchLinux]] and Void Linux).
+  I don't use Windows as my dev environment, nor I endorse WSL.
+- *_Document your code_*.
+- I know _Shellscript (BASH predominantly), C, C++, Python, Lua, Common-Lisp and a bit of Java_. I'm currently am learning Haskell aswell.
+- I use [[https://github.com/vim/vim][Vim]] and [[https://github.com][Neovim]] almost exclusively, but I can manage ~Sublime~, ~VSCode~ (/[[https://github.com/VSCodium/vscodium][VSCodium]]/ to be exact), ~Kate~, ~nano~ and ~Notepad++~.
+- My hobbies are playing PvE/Single-Player games and listening to lots of music.
 
+* My Coding
+
+I always favour my code built with a functional/procedural architecture in mind, rather than OOP. That being said,
+I'll always be _/reasonably/_ flexible and adaptive.
+
+I am a very pro-documentation developer, so docstrings, annottations for LSPs, explicit type declaration (Python) and focusing on making
+code *_understandable_* to others is my thing.
+Making my code as simple, yet understandable is my priority, so deep nesting and useless/redundant operations are not desired.
+
+
+#+BEGIN_COMMENT
+* My Environment Settings
+
+TODO...
+
+#+END_COMMENT

@@ -1,5 +1,7 @@
 <div align="center">
-<h1 id="drkjeff16">DrKJeff16</h1>
+
+# DrKJeff16
+
 </div>
 
 ## Table of Contents
@@ -7,46 +9,45 @@
 1. [Current Projects](#current-projects)
 2. [About Me](#about-me)
     1. [Additional Information](#additional-information)
-    2. [My Programming Languages](#langs)
+    2. [My Programming Languages](#my-programming-languages)
 3. [My Coding](#my-coding)
 
 ---
 
 ## Current Projects
 
-* [`Jnvim`](https://github.com/DrKJeff16/Jnvim): My Nvim configuration
-* [`project.nvim`](https://github.com/DrKJeff16/project.nvim): My fork of [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim)
-* [`dotfiles`](https://github.com/DrKJeff16/dotfiles): My own dotfiles **(WIP)**
+- [`Jnvim`](https://github.com/DrKJeff16/Jnvim): My Nvim configuration
+- [`project.nvim`](https://github.com/DrKJeff16/project.nvim): My fork of [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim)
+- [`wezterm-types`](https://github.com/justinsgithub/wezterm-types): **(Collaborator)** Lua annotations for [`WezTerm`](https://github.com/wezterm/wezterm)
 
 ---
 
 ## About Me
 
-Hi! I'm a 23 year-old IT student. I love [free software](https://fsf.org) and open-source software.
+Hi! I'm a 24 year-old IT student. I love [free software](https://fsf.org) and open-source software.
 I aspire to be a developer and/or sysadmin.
 
-Mostly self-taught.
+I am mostly self-taught, but care to read the documentation for any new stuff.
 
 ### Additional Information
 
 * ES / EN / RU
-* FOSS and GNU+Linux shill (using [Arch Linux](https://archlinux.org), but I have experience on Gentoo, Debian-based distros and Fedora)
-  I don't use Windows as my dev environment, nor I endorse WSL.
-* **_Document your code_**.
-* [Neovim](https://github.com) user.
-* My hobbies are playing PvE/Single-Player games and listening to lots of music.
+* [Neovim](https://github.com) user
+* _I use Arch BTW_
+* **_Document your code_**
+* FOSS and GNU+Linux shill
+* I don't use Windows as my dev environment, nor do I endorse WSL
+* My hobbies are playing PvE/Single-Player games and listening to lots of music
 
-<h3 id="langs">My Programming Languages</h3>
+### My Programming Languages
 
-* Shellscript (**BASH** predominantly)
 * Lua
+* Shellscript (**BASH** predominantly)
+* Python
 * C
 * C++
-* Python
 * Common-Lisp
 * Java
-
-I'm currently am learning Haskell aswell.
 
 ---
 

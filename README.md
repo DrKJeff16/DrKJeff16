@@ -1,10 +1,6 @@
-<div align="center">
-
 # DrKJeff16
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrKJeff16&show_icons=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+[![DrKJeff16's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrKJeff16&show_icons=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Table of Contents
 
@@ -21,6 +17,7 @@
 - [`Jnvim`](https://github.com/DrKJeff16/Jnvim): My Nvim configuration
 - [`project.nvim`](https://github.com/DrKJeff16/project.nvim): My fork of [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim)
 - [`wezterm-types`](https://github.com/justinsgithub/wezterm-types): **(Collaborator)** Lua annotations for [`WezTerm`](https://github.com/wezterm/wezterm)
+- [My Gists](https://gist.github.com/DrKJeff16)
 
 ---
 
@@ -33,23 +30,13 @@ I am mostly self-taught, but care to read the documentation for any new stuff.
 
 ### Additional Information
 
-* ES / EN / RU
-* [Neovim](https://github.com) user
-* _I use Arch BTW_
-* **_Document your code_**
-* FOSS and GNU+Linux shill
-* I don't use Windows as my dev environment, nor do I endorse WSL
-* My hobbies are playing PvE/Single-Player games and listening to lots of music
-
-### My Programming Languages
-
-* Lua
-* Shellscript (**BASH** predominantly)
-* Python
-* C
-* C++
-* Common-Lisp
-* Java
+- ES / EN / RU
+- [Neovim](https://github.com) user
+- _I use Arch BTW_
+- **_Document your code_**
+- FOSS and GNU+Linux shill
+- I don't use Windows as my dev environment, nor do I endorse WSL
+- My hobbies are playing PvE/Single-Player games and listening to lots of music
 
 ---
 
@@ -62,3 +49,13 @@ I am a very pro-documentation developer, so docstrings, annottations for LSPs, e
 and focusing on making code **readable** and **understandable** to others is my thing.
 Making my code as simple, yet understandable is my priority, so deep nesting and useless/redundant
 operations are some of the things I'll be avoiding like the plague.
+
+### My Programming Languages
+
+- Lua
+- Shellscript (**BASH** predominantly)
+- Python
+- C
+- C++
+- Common-Lisp
+- Java

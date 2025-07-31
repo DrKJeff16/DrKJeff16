@@ -2,19 +2,7 @@
 
 # DrKJeff16
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DrKJeff16&show_icons=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DrKJeff16&show_icons=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=DrKJeff16&show_icons=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage" />
-</picture>
-
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrKJeff16&show_icons=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Table of Contents
 

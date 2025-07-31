@@ -4,6 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrKJeff16&show_icons=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
 ## Table of Contents
 
 1. [Current Projects](#current-projects)

@@ -16,9 +16,9 @@
 
 ## Current Projects
 
-- [`Jnvim`](https://github.com/DrKJeff16/Jnvim): My Nvim configuration
+- [`wezterm-types`](https://github.com/DrKJeff16/wezterm-types) **(Owner, not author)**: Lua annotations for [`WezTerm`](https://github.com/wezterm/wezterm)
 - [`project.nvim`](https://github.com/DrKJeff16/project.nvim): My fork of [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim)
-- [`wezterm-types`](https://github.com/justinsgithub/wezterm-types): **(Collaborator)** Lua annotations for [`WezTerm`](https://github.com/wezterm/wezterm)
+- [`Jnvim`](https://github.com/DrKJeff16/Jnvim): My Nvim configuration
 - [My Gists](https://gist.github.com/DrKJeff16)
 
 ---

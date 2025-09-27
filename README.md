@@ -9,8 +9,8 @@
 
 ## Current Projects
 
-- [`wezterm-types`](https://github.com/DrKJeff16/wezterm-types) **(Owner, not author)**: LuaLS type annotations for [`WezTerm`](https://github.com/wezterm/wezterm) configuration
 - [`project.nvim`](https://github.com/DrKJeff16/project.nvim): My improved and actively maintained version of [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim)
+- [`wezterm-types`](https://github.com/DrKJeff16/wezterm-types) **(Owner, not author)**: LuaLS type annotations for [`WezTerm`](https://github.com/wezterm/wezterm) configuration
 - [`Jnvim`](https://github.com/DrKJeff16/Jnvim): My personal Neovim configuration
 - [My Gists](https://gist.github.com/DrKJeff16)
 

@@ -2,6 +2,8 @@
 
 # DrKJeff16
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=DrKJeff16&theme=tokyonight&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+
 [![DrKJeff16's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrKJeff16&show_icons=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight)](https://github.com/DrKJeff16)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrKJeff16&hide=html&show_icons=true&theme=tokyonight)](https://github.com/DrKJeff16)
 

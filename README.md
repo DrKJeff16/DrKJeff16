@@ -5,7 +5,8 @@
 <a href="https://git.io/streak-stats">
 <img
 alt="GitHub Streak"
-src="https://streak-stats.demolab.com?user=DrKJeff16&theme=tokyonight&hide_border=true&short_numbers=true" />
+src="https://streak-stats.demolab.com?user=DrKJeff16&theme=tokyonight&hide_border=true&short_numbers=true"
+/>
 </a>
 
 [![DrKJeff16's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrKJeff16&show_icons=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight)](https://github.com/DrKJeff16)
@@ -15,10 +16,10 @@ src="https://streak-stats.demolab.com?user=DrKJeff16&theme=tokyonight&hide_borde
 
 ## Current Projects
 
-- [`project.nvim`](https://github.com/DrKJeff16/project.nvim): My improved and actively maintained version of [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim)
-- [`wezterm-types`](https://github.com/DrKJeff16/wezterm-types) **(Owner, not author)**: LuaLS type annotations for [`WezTerm`](https://github.com/wezterm/wezterm) configuration
-- [`Jnvim`](https://github.com/DrKJeff16/Jnvim): My personal Neovim configuration
-- [My Gists](https://gist.github.com/DrKJeff16)
+- [`project.nvim`](https://github.com/DrKJeff16/project.nvim): My improved and actively maintained version of [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim).
+- [`wezterm-types`](https://github.com/DrKJeff16/wezterm-types): LuaLS type annotations for [`WezTerm`](https://github.com/wezterm/wezterm) configuration.
+- [`Jnvim`](https://github.com/DrKJeff16/nvim): My personal Neovim configuration.
+- [`rockerBOO/awesome-neovim`](https://github.com/rockerBOO/awesome-neovim): Collections of awesome Neovim plugins **(COLLABORATOR)**.
 
 ## About Me
 

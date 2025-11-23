@@ -10,6 +10,7 @@ width="100"
 - [`wezterm-types`](https://github.com/DrKJeff16/wezterm-types): LuaLS type annotations for [`WezTerm`](https://github.com/wezterm/wezterm) configuration.
 - [`Jnvim`](https://github.com/DrKJeff16/nvim): My personal Neovim configuration.
 - [`rockerBOO/awesome-neovim`](https://github.com/rockerBOO/awesome-neovim): Collections of awesome Neovim plugins **(COLLABORATOR)**.
+- [`gisketch/triforce.nvim`](https://github.com/gisketch/triforce.nvim): Gamification for Neovim **(COLLABORATOR)**.
 
 <div align="center">
 

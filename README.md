@@ -13,14 +13,6 @@ width="100"
 - [`gisketch/triforce.nvim`](https://github.com/gisketch/triforce.nvim): Gamification for Neovim **(COLLABORATOR)**.
 
 <div align="center">
-
-<a href="https://git.io/streak-stats">
-<img
-alt="GitHub Streak"
-src="https://streak-stats.demolab.com?user=DrKJeff16&theme=tokyonight&hide_border=true&short_numbers=true"
-/>
-</a>
-<br />
 <a href="https://github-profile-summary-cards.vercel.app">
 <img
 alt="Top Languages by Repo"
@@ -39,7 +31,6 @@ alt="Profile Details"
 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrKJeff16&theme=tokyonight"
 />
 </a>
-
 </div>
 
 ---

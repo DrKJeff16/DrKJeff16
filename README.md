@@ -21,14 +21,24 @@ src="https://streak-stats.demolab.com?user=DrKJeff16&theme=tokyonight&hide_borde
 />
 </a>
 
+<a href="https://github-profile-summary-cards.vercel.app">
 <img
-alt="DrKJeff16's GitHub Stats"
-src="https://github-readme-stats.vercel.app/api?username=DrKJeff16&show_icons=true&show=prs_merged,prs_merged_percentage&theme=tokyonight"
+alt="Top Languages by Repo"
+src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DrKJeff16&theme=tokyonight"
 />
+</a>
+<a href="https://github-profile-summary-cards.vercel.app">
 <img
-alt="Top Langs"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrKJeff16&hide=html&show_icons=true&theme=tokyonight"
+alt="GitHub Stats"
+src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DrKJeff16&theme=tokyonight"
 />
+</a>
+<a href="https://github-profile-summary-cards.vercel.app">
+<img
+alt="Profile Details"
+src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrKJeff16&theme=tokyonight"
+/>
+</a>
 
 </div>
 

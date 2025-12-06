@@ -15,8 +15,8 @@ width="100"
 <div align="center">
 <a href="https://github-profile-summary-cards.vercel.app">
 <img
-alt="Top Languages by Commit"
-src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DrKJeff16&theme=tokyonight"
+alt="Top Languages by Repo"
+src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DrKJeff16&theme=tokyonight"
 />
 </a>
 <a href="https://github-profile-summary-cards.vercel.app">

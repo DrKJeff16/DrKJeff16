@@ -8,6 +8,8 @@ width="100"
 
 - [`project.nvim`](https://github.com/DrKJeff16/project.nvim): My improved and actively maintained version of [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim).
 - [`wezterm-types`](https://github.com/DrKJeff16/wezterm-types): LuaLS type annotations for [`WezTerm`](https://github.com/wezterm/wezterm) configuration.
+- [`vim-eof-comment`](https://github.com/DrKJeff16/vim-eof-comment): A Python script to add
+  Vim modeline comments at the end of file of every file with a given extension.
 - [`Jnvim`](https://github.com/DrKJeff16/nvim): My personal Neovim configuration.
 - [`rockerBOO/awesome-neovim`](https://github.com/rockerBOO/awesome-neovim): Collections of awesome Neovim plugins **(COLLABORATOR)**.
 - [`gisketch/triforce.nvim`](https://github.com/gisketch/triforce.nvim): Gamification for Neovim **(COLLABORATOR)**.

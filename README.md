@@ -6,6 +6,11 @@ width="100"
 />
 </a>
 
+[![Stats](./profile/stats.svg)](#)
+[![Top Languages](./profile/top-langs.svg)](#)
+
+---
+
 | [![project.nvim](./profile/project_nvim.pin.svg)](https://github.com/DrKJeff16/project.nvim)                               | [![wezterm-types](./profile/wezterm-types.pin.svg)](https://github.com/DrKJeff16/wezterm-types) |
 |----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | My improved and actively maintained version<br />of [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim). | LuaLS type annotations<br />for[`WezTerm`](https://github.com/wezterm/wezterm) configuration.   |
@@ -21,9 +26,6 @@ width="100"
 | [![triforce.nvim](./profile/triforce.pin.svg)](https://github.com/gisketch/triforce.nvim) | [![awesome-neovim](./profile/awesome-neovim.pin.svg)](https://github.com/rockerBOO/awesome-neovim)    |
 |-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | Gamification for Neovim<br /> **(COLLABORATOR)**.                                         | Collections of awesome Neovim plugins<br/> **(COLLABORATOR)**.                                        |
-
-[![Stats](./profile/stats.svg)](#)
-[![Top Languages](./profile/top-langs.svg)](#)
 
 ---
 

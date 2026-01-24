@@ -18,24 +18,11 @@ at the end of file of every file with a given extension.
 - [`gisketch/triforce.nvim`](https://github.com/gisketch/triforce.nvim): Gamification for Neovim **(COLLABORATOR)**.
 
 <div align="center">
-<a href="https://github-profile-summary-cards.vercel.app">
-<img
-alt="Top Languages by Repo"
-src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DrKJeff16&theme=tokyonight"
-/>
-</a>
-<a href="https://github-profile-summary-cards.vercel.app">
-<img
-alt="GitHub Stats"
-src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DrKJeff16&theme=tokyonight"
-/>
-</a>
-<a href="https://github-profile-summary-cards.vercel.app">
-<img
-alt="Profile Details"
-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrKJeff16&theme=tokyonight"
-/>
-</a>
+
+[![Stats](./profile/stats.svg)](#)
+[![Top Languages](./profile/top-langs.svg)](#)
+[![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)](#)
+
 </div>
 
 ---

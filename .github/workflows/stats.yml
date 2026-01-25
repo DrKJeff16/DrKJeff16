@@ -74,14 +74,14 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=gisketch&repo=triforce.nvim&theme=tokyonight
+          options: username=gisketch&repo=triforce.nvim&theme=tokyonight&show_owner=true
           path: profile/triforce.pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: awesome-neovim pin
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=rockerBOO&repo=awesome-neovim&theme=tokyonight
+          options: username=rockerBOO&repo=awesome-neovim&theme=tokyonight&show_owner=true
           path: profile/awesome-neovim.pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit cards

@@ -114,3 +114,5 @@
 I love Linux (_I use Arch, btw_), open-source software and Neovim.
 
 Helping around as much as I can and **documenting code** are among my main objectives.
+
+<!-- vim: set ts=2 sts=2 sw=2 et ai si sta: -->

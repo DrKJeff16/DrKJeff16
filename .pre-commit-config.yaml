@@ -8,3 +8,5 @@ repos:
     rev: v1.5.5
     hooks:
       - id: remove-crlf
+
+# vim: set ts=2 sts=2 sw=2 et ai si sta:

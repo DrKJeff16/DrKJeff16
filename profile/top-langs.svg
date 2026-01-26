@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="375"
-        viewBox="0 0 300 375"
+        height="165"
+        viewBox="0 0 300 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #70a5fd;
+            fill: #2f80ed;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -38,7 +38,7 @@
       }
     }
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #38bdae;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #434d58;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -47,7 +47,7 @@
     .bold { font-weight: 700 }
     .lang-name {
       font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #38bdae;
+      fill: #434d58;
     }
     .stagger {
       opacity: 0;
@@ -93,7 +93,7 @@
           height="99%"
           stroke="#e4e2e2"
           width="299"
-          fill="#1a1b27"
+          fill="#00000000"
           stroke-opacity="1"
         />
 
@@ -118,113 +118,103 @@
           transform="translate(0, 55)"
         >
           
-    <svg data-testid="lang-items">
-      <g transform="translate(0, 0)">
-        <svg data-testid="pie">
-          
-      <g class="stagger" style="animation-delay: 100ms">
-        <path
-          data-testid="lang-pie"
-          size="69.00632838861654"
-          d="M 150 100 L 240 100 A 90 90 0 1 1 116.90206603880881 16.306949108658813 Z"
+    <svg data-testid="lang-items" x="25">
+      
+  
+      <mask id="rect-mask">
+          <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
+        </mask>
+        
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="0"
+          y="0"
+          width="173.88"
+          height="8"
           fill="#000080"
         />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 200ms">
-        <path
-          data-testid="lang-pie"
-          size="12.286292735722926"
-          d="M 150 100 L 116.90206603880881 16.306949108658813 A 90 90 0 0 1 184.6640556183124 16.943373243969617 Z"
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="173.88"
+          y="0"
+          width="30.93"
+          height="8"
           fill="#89e051"
         />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 300ms">
-        <path
-          data-testid="lang-pie"
-          size="8.031527344496086"
-          d="M 150 100 L 184.6640556183124 16.943373243969617 A 90 90 0 0 1 220.50013750628926 44.05600468688078 Z"
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="204.81"
+          y="0"
+          width="20.22"
+          height="8"
           fill="#e34c26"
         />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 400ms">
-        <path
-          data-testid="lang-pie"
-          size="5.723562742726173"
-          d="M 150 100 L 220.50013750628926 44.05600468688078 A 90 90 0 0 1 235.67807468649175 72.44519065542384 Z"
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="225.03"
+          y="0"
+          width="15.54"
+          height="8"
           fill="#3572A5"
         />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 500ms">
-        <path
-          data-testid="lang-pie"
-          size="3.8318202075507735"
-          d="M 150 100 L 235.67807468649175 72.44519065542384 A 90 90 0 0 1 239.77705782491097 93.66913210510648 Z"
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="240.57"
+          y="0"
+          width="19.439999999999998"
+          height="8"
           fill="#555555"
         />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 600ms">
-        <path
-          data-testid="lang-pie"
-          size="1.1204685808875023"
-          d="M 150 100 L 239.77705782491097 93.66913210510648 A 90 90 0 0 1 240 99.99999999999997 Z"
-          fill="#3D6117"
-        />
-      </g>
-    
-        </svg>
-      </g>
-      <g transform="translate(0, 220)">
-        <svg data-testid="lang-names" x="25">
-          <g transform="translate(0, 0)"><g transform="translate(0, 0)">
+      
+      
+    <g transform="translate(0, 25)">
+      <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua 69.01%
+        Lua 69.55%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 12.29%
+        Shell 12.37%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 8.03%
+        HTML 8.09%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 5.72%
+        Python 6.21%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 3.83%
-      </text>
-    </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#3D6117" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TeX 1.12%
+        C 3.77%
       </text>
     </g>
   </g></g>
-        </svg>
-      </g>
+    </g>
+  
     </svg>
   
         </g>

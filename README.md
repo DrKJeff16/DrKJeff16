@@ -65,18 +65,22 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/DrKJeff16/nvim-plugin-boilerplate">
-      <img alt="nvim-plugin-boilerplate" src="./profile/nvim-plugin-boilerplate.pin.svg" />
-      </a>
-      <br />
-      <em>Documented Neovim plugin templatewith<br /> a dynamic setup script<br />and multiple integrations.</em>
+      <p align="center">
+        <a href="https://github.com/DrKJeff16/nvim-plugin-boilerplate">
+        <img alt="nvim-plugin-boilerplate" src="./profile/nvim-plugin-boilerplate.pin.svg" />
+        </a>
+        <br />
+        <em>Documented Neovim plugin templatewith<br /> a dynamic setup script<br />and multiple integrations.</em>
+      </p>
     </td>
     <td>
-      <a href="https://github.com/DrKJeff16/vim-eof-comment">
-      <img alt="vim-eof-comment" src="./profile/vim-eof-comment.pin.svg" />
-      </a>
-      <br />
-      <em>Python script to add Vim modeline comments<br />at the end of every file<br />with a given extension.</em>
+      <p align="center">
+        <a href="https://github.com/DrKJeff16/vim-eof-comment">
+        <img alt="vim-eof-comment" src="./profile/vim-eof-comment.pin.svg" />
+        </a>
+        <br />
+        <em>Python script to add Vim modeline comments<br />at the end of every file<br />with a given extension.</em>
+      </p>
     </td>
   </tr>
 </table>

@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2750&color=13B382&background=B40AFF0D&center=true&vCenter=true&width=375&lines=Hello+there%2C+DrKJeff16+here!)](https://git.io/typing-svg)
+
 <a href="#">
 <img src="https://avatars.githubusercontent.com/u/72052712" align="right" width="100" />
 </a>

@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2750&color=13B382&background=B40AFF0D&center=true&vCenter=true&width=375&lines=Hello+there%2C+DrKJeff16+here!)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg">
+<img align="left" alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2750&color=13B382&background=B40AFF0D&center=true&vCenter=true&width=375&lines=Hello+there%2C+DrKJeff16+here!" />
+</a>
 <a href="#">
-<img src="https://avatars.githubusercontent.com/u/72052712" align="right" width="100" />
+<img align="right" alt="Profile Picture" src="https://avatars.githubusercontent.com/u/72052712" width="100" />
 </a>
 
 <table>

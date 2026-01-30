@@ -67,6 +67,13 @@ jobs:
           options: username=DrKJeff16&repo=which-colorscheme.nvim&theme=tokyonight
           path: profile/which-colorscheme.pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+      - name: pipenv.nvim pin
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=DrKJeff16&repo=pipenv.nvim&theme=tokyonight
+          path: profile/pipenv-nvim.pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: nvim-plugin-boilerplate pin
         uses: readme-tools/github-readme-stats-action@v1
         with:

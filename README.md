@@ -38,7 +38,7 @@
     </picture>
   </a>
   <br />
-  <em>My improved and actively maintained version of <a href="https://github.com/ahmedkhalf/project.nvim"><code>ahmedkhalf/project.nvim</code></a>.</em>
+  <em>My improved and actively maintained version of<br /><a href="https://github.com/ahmedkhalf/project.nvim"><code>ahmedkhalf/project.nvim</code></a>.</em>
   <br />
   <br />
   <a href="https://github.com/DrKJeff16/wezterm-types">
@@ -93,7 +93,7 @@
     </picture>
   </a>
   <br />
-  <em>Python script to add Vim modeline comments at the end of every file<br />with a given file extension.</em>
+  <em>Python script to add Vim modeline comments at the end<br />of every file with a given file extension.</em>
   <br />
   <br />
   <a href="https://github.com/DrKJeff16/nvim-plugin-boilerplate">
@@ -115,7 +115,7 @@
     </picture>
   </a>
   <br />
-  <em>Gamification for Neovim<br /> <b><ins>(COLLABORATOR)</ins></b>.</em>
+  <em>Gamification for Neovim <b><ins>(COLLABORATOR)</ins></b>.</em>
   <br />
   <br />
   <a href="https://github.com/rockerBOO/awesome-neovim">

@@ -18,82 +18,159 @@ jobs:
       - name: Clean SVGs
         run: |
           rm -f profile/*.svg
-      - name: Generate stats card
+      - name: Generate stats card (Default)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show=reviews,prs_merged_percentage&hide=stars&show_icons=true&theme=default
+          path: profile/stats_default.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate stats card (Dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show=reviews,prs_merged_percentage&hide=stars&show_icons=true&theme=tokyonight
-          path: profile/stats.svg
+          path: profile/stats_dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Generate top languages card
+      - name: Generate top languages card (Default)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&langs_count=5&theme=default
+          path: profile/top-langs_default.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate top languages card (Dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&langs_count=5&theme=tokyonight
-          path: profile/top-langs.svg
+          path: profile/top-langs_dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: project.nvim pin
+      - name: project.nvim pin (Default)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=DrKJeff16&repo=project.nvim&theme=default
+          path: profile/project_nvim.pin_default.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: project.nvim pin (Dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=DrKJeff16&repo=project.nvim&theme=tokyonight
-          path: profile/project_nvim.pin.svg
+          path: profile/project_nvim.pin_dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: wezterm-types pin
+      - name: wezterm-types pin (Default)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=DrKJeff16&repo=wezterm-types&theme=default
+          path: profile/wezterm-types.pin_default.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: wezterm-types pin (Dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=DrKJeff16&repo=wezterm-types&theme=tokyonight
-          path: profile/wezterm-types.pin.svg
+          path: profile/wezterm-types.pin_dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Jnvim pin
+      - name: Jnvim pin (Default)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=DrKJeff16&repo=nvim&theme=default
+          path: profile/Jnvim.pin_default.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Jnvim pin (Dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=DrKJeff16&repo=nvim&theme=tokyonight
-          path: profile/Jnvim.pin.svg
+          path: profile/Jnvim.pin_dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: vim-eof-comment pin
+      - name: vim-eof-comment pin (Default)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=DrKJeff16&repo=vim-eof-comment&theme=default
+          path: profile/vim-eof-comment.pin_default.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: vim-eof-comment pin (Dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=DrKJeff16&repo=vim-eof-comment&theme=tokyonight
-          path: profile/vim-eof-comment.pin.svg
+          path: profile/vim-eof-comment.pin_dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: which-colorscheme.nvim pin
+      - name: which-colorscheme.nvim pin (Default)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=DrKJeff16&repo=which-colorscheme.nvim&theme=default
+          path: profile/which-colorscheme.pin_default.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: which-colorscheme.nvim pin (Dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=DrKJeff16&repo=which-colorscheme.nvim&theme=tokyonight
-          path: profile/which-colorscheme.pin.svg
+          path: profile/which-colorscheme.pin_dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: pipenv.nvim pin
+      - name: pipenv.nvim pin (Default)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=DrKJeff16&repo=pipenv.nvim&theme=default
+          path: profile/pipenv-nvim.pin_default.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: pipenv.nvim pin (Dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=DrKJeff16&repo=pipenv.nvim&theme=tokyonight
-          path: profile/pipenv-nvim.pin.svg
+          path: profile/pipenv-nvim.pin_dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: nvim-plugin-boilerplate pin
+      - name: nvim-plugin-boilerplate pin (Default)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=DrKJeff16&repo=nvim-plugin-boilerplate&theme=default
+          path: profile/nvim-plugin-boilerplate.pin_default.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: nvim-plugin-boilerplate pin (Dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=DrKJeff16&repo=nvim-plugin-boilerplate&theme=tokyonight
-          path: profile/nvim-plugin-boilerplate.pin.svg
+          path: profile/nvim-plugin-boilerplate.pin_dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: triforce.nvim pin
+      - name: triforce.nvim pin (Default)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=gisketch&repo=triforce.nvim&theme=tokyonight&show_owner=true
-          path: profile/triforce.pin.svg
+          options: username=gisketch&repo=triforce.nvim&show_owner=true&theme=default
+          path: profile/triforce.pin_default.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: awesome-neovim pin
+      - name: triforce.nvim pin (Dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=rockerBOO&repo=awesome-neovim&theme=tokyonight&show_owner=true
-          path: profile/awesome-neovim.pin.svg
+          options: username=gisketch&repo=triforce.nvim&show_owner=true&theme=tokyonight
+          path: profile/triforce.pin_dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: awesome-neovim pin (Default)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=rockerBOO&repo=awesome-neovim&show_owner=true&theme=default
+          path: profile/awesome-neovim.pin_default.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: awesome-neovim pin (Dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=rockerBOO&repo=awesome-neovim&show_owner=true&theme=tokyonight
+          path: profile/awesome-neovim.pin_dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit cards
         run: |

@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">WezTerm Lua config types for LuaLS, with Neovim and VSCode</tspan><tspan dy="1.2em" x="25">compatibility. Also supperts various WezTerm plugins.</tspan>
+      <tspan dy="1.2em" x="25">WezTerm Lua config types for LuaLS, with Neovim and VSCode</tspan><tspan dy="1.2em" x="25">support. Also supperts various WezTerm plugins.</tspan>
     </text>
 
     <g transform="translate(30, 65)">

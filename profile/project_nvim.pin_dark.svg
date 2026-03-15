@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">A Neovim plugin to detect and chdir to the project root,</tspan><tspan dy="1.2em" x="25">with its own UI. Supports oil.nvim, includes pickers for</tspan><tspan dy="1.2em" x="25">telescope, snacks, fzf-lua, and picker.nvim.</tspan>
+      <tspan dy="1.2em" x="25">A Neovim plugin to detect and chdir to the project root,</tspan><tspan dy="1.2em" x="25">with its own UI. Provides lualine component, supports</tspan><tspan dy="1.2em" x="25">oil.nvim, includes pickers for telescope, snacks, fzf-lua,...</tspan>
     </text>
 
     <g transform="translate(30, 75)">

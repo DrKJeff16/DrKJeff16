@@ -106,10 +106,10 @@
     <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#000080" />
-      <text data-testid="lang-name" class="gray" x="15">Lua</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#8ea64c" />
+      <text data-testid="lang-name" class="gray" x="15">Tree-sitter Query</text>
     </g>
-    </g><g transform="translate(44.96875, 0)"><g transform="translate(0, 0)">
+    </g><g transform="translate(115.54374999999999, 0)"><g transform="translate(0, 0)">
       <svg
         class="icon"
         y="-12"

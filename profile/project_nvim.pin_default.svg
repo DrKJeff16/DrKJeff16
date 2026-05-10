@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">A Neovim plugin to detect and chdir to the project root,</tspan><tspan dy="1.2em" x="25">with its own UI. Provides lualine component, supports</tspan><tspan dy="1.2em" x="25">oil.nvim, includes pickers for telescope, snacks, fzf-lua,...</tspan>
+      <tspan dy="1.2em" x="25">Actively maintained fork of ahmedkhalf/project.nvim.</tspan><tspan dy="1.2em" x="25">Detects and chdirs to the project root, with its own UI,</tspan><tspan dy="1.2em" x="25">provides lualine component, supports oil.nvim, includes...</tspan>
     </text>
 
     <g transform="translate(30, 75)">

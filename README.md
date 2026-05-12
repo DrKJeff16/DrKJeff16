@@ -85,6 +85,17 @@
   <em>Cycle between colorschemes using <a href="https://github.com/folke/which-key.nnim"><code>which-key.nvim</code></a> bindings.</em>
   <br />
   <br />
+  <a href="https://github.com/DrKJeff16/shebang.nvim">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/shebang.pin_dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./profile/shebang.pin_default.svg" />
+      <img alt="Fallback image description" src="./profile/shebang.pin_default.svg" />
+    </picture>
+  </a>
+  <br />
+  <em>Add/modify your shebangs on top of your script files, with live reloading.</em>
+  <br />
+  <br />
   <a href="https://github.com/DrKJeff16/vim-eof-comment">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./profile/vim-eof-comment.pin_dark.svg" />

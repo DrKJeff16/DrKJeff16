@@ -130,6 +130,20 @@ jobs:
           options: username=DrKJeff16&repo=pipenv.nvim&theme=tokyonight
           path: profile/pipenv-nvim.pin_dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+      - name: shebang.nvim pin (Default)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=DrKJeff16&repo=shebang.nvim&show_owner=true&theme=default
+          path: profile/shebang.pin_default.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: shebang.nvim pin (Dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=DrKJeff16&repo=shebang.nvim&show_owner=true&theme=tokyonight
+          path: profile/shebang.pin_dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: nvim-plugin-boilerplate pin (Default)
         uses: readme-tools/github-readme-stats-action@v1
         with:

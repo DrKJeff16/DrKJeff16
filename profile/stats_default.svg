@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Guennadi Maximov C's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Commits  (last year) : 9576, Total PRs: 675, Merged PRs Percentage: 90.07, Total PRs Reviewed: 366, Total Issues: 92, Contributed to (last year): 84</desc>
+        <desc id="descId">Total Commits  (last year) : 9578, Total PRs: 675, Merged PRs Percentage: 90.07, Total PRs Reviewed: 366, Total Issues: 92, Contributed to (last year): 84</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 12.30427775499385;
+        stroke-dashoffset: 12.304277754993135;
       }
     }
   

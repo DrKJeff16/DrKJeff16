@@ -15,16 +15,16 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
-      - name: Clean SVGs
-        run: |
-          rm -f profile/*.svg
-      - name: Commit cards
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile
-          git commit -m "chore: delete \`README.md\` cards" || exit 1
-          git push
+        # - name: Clean SVGs
+        #   run: |
+        #     rm -f profile/*.svg
+        # - name: Commit cards
+        #   run: |
+        #     git config user.name "github-actions[bot]"
+        #     git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        #     git add profile
+        #     git commit -m "chore: delete \`README.md\` cards" || exit 1
+        #     git push
   stats:
     runs-on: ubuntu-latest
     needs: clean

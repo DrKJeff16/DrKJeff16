@@ -52,14 +52,14 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&langs_count=5&theme=default
+          options: username=${{ github.repository_owner }}&langs_count=5&theme=default&hide=query
           path: profile/top-langs_default.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate top languages card (Dark)
         uses: readme-tools/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&langs_count=5&theme=tokyonight
+          options: username=${{ github.repository_owner }}&langs_count=5&theme=tokyonight&hide=query
           path: profile/top-langs_dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit cards

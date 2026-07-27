@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">DrKJeff16's personalized, highly documented, up-to-date</tspan><tspan dy="1.2em" x="25">Neovim config.</tspan>
+      <tspan dy="1.2em" x="25">DrKJeff16&#39;s personalized, highly documented, up-to-date</tspan><tspan dy="1.2em" x="25">Neovim config.</tspan>
     </text>
 
     <g transform="translate(30, 65)">

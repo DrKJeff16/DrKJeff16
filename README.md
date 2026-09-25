@@ -129,6 +129,17 @@
   <em>Gamification for Neovim <b><ins>(COLLABORATOR)</ins></b>.</em>
   <br />
   <br />
+  <a href="https://github.com/antosha417/nvim-lsp-file-operations">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/nvim-lsp-file-operations.pin_dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./profile/nvim-lsp-file-operations.pin_default.svg" />
+      <img alt="Fallback image description" src="./profile/nvim-lsp-file-operations.pin_default.svg" />
+    </picture>
+  </a>
+  <br />
+  <em>Adds support for file operations using Neovim's built-in LSP support.</em>
+  <br />
+  <br />
   <a href="https://github.com/rockerBOO/awesome-neovim">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./profile/awesome-neovim.pin_dark.svg" />

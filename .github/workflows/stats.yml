@@ -197,14 +197,14 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v2.1.0
         with:
           card: pin
-          options: username=gisketch&repo=triforce.nvim&show_owner=true&theme=default
+          options: username=DrKJeff16&repo=triforce.nvim&show_owner=true&theme=default
           path: profile/triforce.pin_default.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: triforce.nvim pin (Dark)
         uses: readme-tools/github-readme-stats-action@v2.1.0
         with:
           card: pin
-          options: username=gisketch&repo=triforce.nvim&show_owner=true&theme=tokyonight
+          options: username=DrKJeff16&repo=triforce.nvim&show_owner=true&theme=tokyonight
           path: profile/triforce.pin_dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: nvim-lsp-file-operations pin (Default)

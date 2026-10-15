@@ -118,7 +118,7 @@
   <em>Documented Neovim plugin templatewith<br /> a dynamic setup script and multiple integrations.</em>
   <br />
   <br />
-  <a href="https://github.com/gisketch/triforce.nvim">
+  <a href="https://github.com/DrKJeff16/triforce.nvim">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./profile/triforce.pin_dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./profile/triforce.pin_default.svg" />
